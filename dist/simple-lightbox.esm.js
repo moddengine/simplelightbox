@@ -3,6 +3,7 @@
 	Documentation, www.simplelightbox.com
 	Available for use under the MIT License
 	Version 2.14.3
+
 */
 class SimpleLightbox {
 
@@ -1587,5 +1588,3 @@ class SimpleLightbox {
     }
 }
 export default SimpleLightbox;
-
-global.SimpleLightbox = SimpleLightbox;
